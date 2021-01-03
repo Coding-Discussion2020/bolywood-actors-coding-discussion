@@ -43,4 +43,4 @@ Random bolywood actor name.
 
 ## License
 
-ISC © [Avick Saha](https://sonicboomboom.github.io/personal-site/)
+MIT © [Avick Saha](https://sonicboomboom.github.io/personal-site/)

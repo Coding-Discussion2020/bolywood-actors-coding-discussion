@@ -1,7 +1,7 @@
 {
   "name": "bolywood-actors-coding-discussion",
-  "version": "1.1.0",
-  "description": "",
+  "version": "1.2.0",
+  "description": "Get Bollywood actor names.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,12 +14,13 @@
     "random",
     "bolywood",
     "bolywood actors",
+    "actors",
     "actor",
     "heroes",
     "hero"
   ],
   "author": "Avick Saha",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "unique-random-array": "^2.0.0"
   }
