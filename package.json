@@ -1,6 +1,6 @@
 {
   "name": "bollywood-actors-coding-discussion",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Get Bollywood actor names.",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,17 @@
     "heroes",
     "hero"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coding-Discussion2020/bolywood-actors-coding-discussion.git"
+  },
   "author": "Avick Saha",
   "license": "MIT",
   "dependencies": {
     "unique-random-array": "^2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Coding-Discussion2020/bolywood-actors-coding-discussion/issues"
+  },
+  "homepage": "https://github.com/Coding-Discussion2020"
 }
