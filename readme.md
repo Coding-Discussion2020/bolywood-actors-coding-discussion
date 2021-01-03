@@ -1,28 +1,28 @@
-# Bolywood Actors
+# Bollywood Actors
 
-> Get bolywood actor names
+> Get bollywood actor names
 
 <img src="https://i.pinimg.com/originals/61/2f/da/612fdaf59ea3daa811b53682d43033a3.jpg" width="100" height="112" align="right">
 
-The list is just a Array and can be used anywhere.
+The list is just [JSON file](bollywood-actors.json) and can be used anywhere.
 
 
 ## Install
 
 ```
-$ npm install bolywood-actors-coding-discussion
+$ npm install bollywood-actors-coding-discussion
 ```
 
 
 ## Usage
 
 ```js
-const bolywoodActors = require('bolywood-actors-coding-discussion');
+const bollywoodActors = require('bollywood-actors-coding-discussion');
 
-bolywoodActors.all;
+bollywoodActors.all;
 //=> ["Aamir Khan", "Aarun Nagar", …]
 
-bolywoodActors.random();
+bollywoodActors.random();
 //=> 'Shah Rukh Khan'
 ```
 
@@ -33,13 +33,13 @@ bolywoodActors.random();
 
 Type: `string[]`
 
-Bolywood actor names in alphabetical order.
+bollywood actor names in alphabetical order.
 
 ### .random()
 
 Type: `Function`
 
-Random bolywood actor name.
+Random  actor name.
 
 ## License
 

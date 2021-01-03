@@ -1,5 +1,5 @@
 const uniqueRandomArray = require('unique-random-array');
-const bolywoodActors = require('./bollywood-actors.json');;
+const bollywoodActors = require('./bollywood-actors.json');;
 
-exports.all = bolywoodActors;
-exports.random = uniqueRandomArray(bolywoodActors);
+exports.all = bollywoodActors;
+exports.random = uniqueRandomArray(bollywoodActors);

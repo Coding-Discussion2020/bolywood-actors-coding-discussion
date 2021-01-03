@@ -6,7 +6,7 @@ declare const bollywoodActors: {
 
 	@example
 	```
-	import bollywoodActors = require('bolywood-actors-coding-discussion');
+	import bollywoodActors = require('bollywood-actors-coding-discussion');
 
 	superheroes.all;
 	//=> ["Aamir Khan", "Aarun Nagar", …]
@@ -15,17 +15,17 @@ declare const bollywoodActors: {
 	readonly all: Readonly<typeof bollywoodActorsJson>;
 
 	/**
-	Random bolywood actor name.
+	Random bollywood actor name.
 
 	@example
 	```
-	import bolywoodActors = require('bolywood-actors-coding-discussion');
+	import bollywoodActors = require('bollywood-actors-coding-discussion');
 
-  bolywoodActors.random();
+  bollywoodActors.random();
   //=> 'Shah Rukh Khan'
 	```
 	*/
 	random(): string;
 }
 
-export = bolywoodActors;
+export = bollywoodActors;

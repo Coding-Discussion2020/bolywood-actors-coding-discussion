@@ -1,6 +1,6 @@
 {
-  "name": "bolywood-actors-coding-discussion",
-  "version": "1.2.0",
+  "name": "bollywood-actors-coding-discussion",
+  "version": "1.2.1",
   "description": "Get Bollywood actor names.",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
     "list",
     "array",
     "random",
-    "bolywood",
-    "bolywood actors",
+    "bollywood",
+    "bollywood actors",
     "actors",
     "actor",
     "heroes",
